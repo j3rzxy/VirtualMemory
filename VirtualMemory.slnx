@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BlockVirStr/BlockVirStr.vcxproj" />
+  <Project Path="MemoryAdrProc/MemoryAdrProc.vcxproj" />
+  <Project Path="MemoryProc/MemoryProc.vcxproj" />
+  <Project Path="ReservMem/ReservMem.vcxproj" />
+</Solution>
